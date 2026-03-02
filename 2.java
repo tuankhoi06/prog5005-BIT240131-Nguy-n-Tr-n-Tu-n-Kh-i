@@ -2,7 +2,7 @@ package Chuong5;
 import java.sql.*;
 import java.util.Scanner;
 
-public class Bai2_DeleteUser {
+public class 2 {
 
     public static void main(String[] args) {
 
@@ -36,4 +36,5 @@ public class Bai2_DeleteUser {
         }
     }
 }
+
 
