@@ -1,7 +1,7 @@
 package Chuong5;
 import java.sql.*;
 
-public class Bai1_SelectUsers {
+public class 1 {
 
     public static void main(String[] args) {
 
@@ -30,5 +30,6 @@ public class Bai1_SelectUsers {
         }
     }
 }
+
 
 
