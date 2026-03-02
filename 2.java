@@ -6,9 +6,9 @@ public class Bai2_DeleteUser {
 
     public static void main(String[] args) {
 
-        String url = "jdbc:sqlserver://localhost:1433;databaseName=JavaPractice;encrypt=false";
-        String user = "sa";
-        String password = "123";
+        String url = "jdbc:sqlserver://localhost:1433;databaseName=Java;encrypt=false";
+        String user = "tuankhoi";
+        String password = "0606";;
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhập ID cần xóa: ");
@@ -36,3 +36,4 @@ public class Bai2_DeleteUser {
         }
     }
 }
+
