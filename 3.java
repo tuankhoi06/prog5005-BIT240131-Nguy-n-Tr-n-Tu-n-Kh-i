@@ -3,7 +3,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class Bai3_SaveProduct {
+public class 3 {
 
     public static void main(String[] args) {
 
@@ -29,3 +29,4 @@ public class Bai3_SaveProduct {
         }
     }
 }
+
