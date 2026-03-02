@@ -5,9 +5,9 @@ public class Bai1_SelectUsers {
 
     public static void main(String[] args) {
 
-        String url = "jdbc:sqlserver://localhost:1433;databaseName=JavaPractice;encrypt=false";
-        String user = "sa";
-        String password = "123";
+        String url = "jdbc:sqlserver://localhost:1433;databaseName=Java;encrypt=false";
+        String user = "tuankhoi";
+        String password = "0606";
 
         try (
             Connection conn = DriverManager.getConnection(url, user, password);
@@ -30,4 +30,5 @@ public class Bai1_SelectUsers {
         }
     }
 }
+
 
